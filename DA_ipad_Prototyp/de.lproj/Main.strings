@@ -1,0 +1,54 @@
+
+/* Class = "UILabel"; text = "Help"; ObjectID = "414-nt-bYQ"; */
+"414-nt-bYQ.text" = "Help";
+
+/* Class = "UILabel"; accessibilityIdentifier = "tapStatus"; ObjectID = "8fH-31-a8a"; */
+"8fH-31-a8a.accessibilityIdentifier" = "tapStatus";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8fH-31-a8a"; */
+"8fH-31-a8a.text" = "Label";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "EV5-FG-Gp3"; */
+"EV5-FG-Gp3.text" = "Distance";
+
+/* Class = "UILabel"; text = "Touches Total:"; ObjectID = "H7C-Zz-63n"; */
+"H7C-Zz-63n.text" = "Touches Total:";
+
+/* Class = "UILabel"; text = "Layers"; ObjectID = "MeG-Gy-ujw"; */
+"MeG-Gy-ujw.text" = "Layers";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "NjO-gY-UAq"; */
+"NjO-gY-UAq.text" = "Settings";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "QJO-Rh-lfa"; */
+"QJO-Rh-lfa.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Shj-Jp-wqA"; */
+"Shj-Jp-wqA.text" = "Label";
+
+/* Class = "UILabel"; text = "Custom Location"; ObjectID = "T9w-mX-Rbz"; */
+"T9w-mX-Rbz.text" = "Custom Location";
+
+/* Class = "UILabel"; text = "Discover"; ObjectID = "Ucn-W4-97H"; */
+"Ucn-W4-97H.text" = "Discover";
+
+/* Class = "UILabel"; text = "Taps:"; ObjectID = "Vbs-ZZ-v50"; */
+"Vbs-ZZ-v50.text" = "Taps:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZAV-My-1kd"; */
+"ZAV-My-1kd.text" = "Label";
+
+/* Class = "UILabel"; text = "Position:"; ObjectID = "ZBk-zM-b0P"; */
+"ZBk-zM-b0P.text" = "Position:";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "alu-Wr-7fu"; */
+"alu-Wr-7fu.text" = "Start";
+
+/* Class = "UILabel"; text = "Custom Location Selected"; ObjectID = "eXP-2G-Trl"; */
+"eXP-2G-Trl.text" = "Custom Location Selected";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "f4g-1M-skn"; */
+"f4g-1M-skn.text" = "Location";
+
+/* Class = "UILabel"; text = "Sprachausgabe"; ObjectID = "ohx-m6-Ezb"; */
+"ohx-m6-Ezb.text" = "Sprachausgabe";

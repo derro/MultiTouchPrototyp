@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>State_Start</key><string>Start </string>
+    <key>State_Help</key><string>Hilfe </string>
+    <key>State_Settings</key><string>Einstellungen </string>
+    <key>State_Discover</key><string>Entdeckungsmodus </string>
+    <key>State_Location</key><string>Ort </string>
+    <key>State_Layers</key><string>Ebenen </string>
+    <key>State_Layers_Singular</key><string>Ebene </string>
+    <key>State_CustomLocation</key><string>Eigene Orte </string>
+    <key>State_CustomLocationSelected</key><string>Ort selektiert </string>
+    <key>State_Distance</key><string>Distanz </string>
+    
+    
+    <key>Gesture_doubleTap</key><string>Doppeltes tippen </string>
+    <key>Gesture_pinchOpen</key><string>Zwei Finger auseinander ziehen </string>
+    <key>Gesture_pinchClose</key><string>Zwei Finger zusammen ziehen </string>
+    <key>Gesture_swipeLeft</key><string>Links wischen </string>
+    <key>Gesture_swipeRight</key><string>Rechts wischen </string>
+    <key>Gesture_swipeDown</key><string>Nach unten wischen </string>
+    <key>Gesture_swipeUp</key><string>Nach oben wischen </string>
+    <key>Gesture_tapAndHoldOne</key><string>Tippen und Halten - 1 Finger </string>
+    <key>Gesture_tapAndHoldTwo</key><string>Tippen und Halten - 2 Finger </string>
+    <key>Gesture_drag</key><string>Ziehen </string>
+    <key>Gesture_handsOff</key><string>Hände heben </string>
+    <key>Gesture_rotationRight</key><string>Drehen rechts </string>
+    <key>Gesture_rotationLeft</key><string>Drehen links </string>
+    <key>Gesture_gesture</key><string>Geste </string>
+    <key>Gesture_recognized</key><string>erkannt </string>
+    
+    <key>Transition_StartToSett</key><string>Öffne Einstellungen </string>
+    <key>Transition_SettToStart</key><string>Beende Einstellungen </string>
+    <key>Transition_StartToDisc</key><string>Entdeckungsmodus aktiviert </string>
+    <key>Transition_DiscToStart</key><string>Entdeckungsmodus beendet </string>
+    <key>Transition_DiscToLoca</key><string>
+</string>
+    <key>Transition_LocaToDisc</key><string>Entdeckungsmodus </string>
+    <key>Transition_DiscToLaye</key><string>Ebenen gewählt </string>
+    <key>Transition_LayeToDisc</key><string>Entdeckungsmodus </string>
+    <key>Transition_DiscToCust</key><string>Eigene Orte gewählt </string>
+    <key>Transition_CustToDisc</key><string>Entdeckungsmodus </string>
+    <key>Transition_CustToCustSele</key><string>Ort gewählt </string>
+    <key>Transition_CustSeleToCust</key><string>Zurück zu Eigene Orte </string>
+    <key>Transition_DiscToDist</key><string>Distanz </string>
+    <key>Transition_DiscToDist_2</key><string> zu Fuß.</string>
+    <key>Transition_DistToDisc</key><string>Entdeckungsmodus </string>
+    <key>Transition_toHelp</key><string>Hilfe gewählt </string>
+    <key>Transition_fromHelp</key><string>Hilfe beendet, gehe Zurück </string>
+    
+    
+    <key>Rotation_Back</key><string>Rotor schließen </string>
+    <key>Rotation_Settings</key><string>Einstellungen </string>
+    <key>Rotation_Help</key><string>Hilfe </string>
+    
+    
+    <key>Map_red</key><string>Karte Rot erkannt. </string>
+    <key>Map_green</key><string>Karte Grün erkannt. </string>
+    <key>Map_yellow</key><string>Karte Gelb erkannt. </string>
+    <key>Map_blue</key><string>Karte Blau erkannt. </string>
+    <key>Map_none</key><string>Keine Karte erkannt. </string>
+    
+    <key>State_Settings_Speech</key><string>Spracheinstellungen </string>
+    <key>State_Settings_Layers</key><string>Ebenen Einstellungen </string>
+    <key>State_Settings_SavedLocation</key><string>Gespeichete Orte </string>
+    <key>State_Help_CurrentState</key><string>Hilfe zum aktuellen Menü </string>
+    <key>State_Help_Global</key><string>Globale Hilfe </string>
+    
+    <key>shops</key><string>Geschäfte </string>
+    <key>rivers</key><string>Flüße </string>
+    <key>coffee</key><string>Kaffeehäuser </string>
+    <key>streetnames</key><string>Straßennamen </string>
+    <key>buildings</key><string>Gebäude </string>
+    <key>publictransport</key><string>Öffentlicher Transport </string>
+    <key>restaurants</key><string>Restaurants </string>
+    <key>atm</key><string>Bankomat </string>
+    <key>hotel</key><string>Hotel </string>
+    
+    <key>div_deleted</key><string>gelöscht </string>
+    <key>div_saved</key><string>gespeichert </string>
+    <key>div_active</key><string>aktiv </string>
+    <key>div_deactive</key><string>deaktiviert </string>
+    <key>div_noLayersActive</key><string>Keine Layers aktiviert. Bitte überprüfen Sie die Einstellungen </string>
+    <key>div_activated</key><string>aktiviert </string>
+    <key>div_deactivated</key><string>deaktiviert </string>
+    <key>div_selected</key><string>gewählt </string>
+    <key>div_settings_speech</key><string>Sprechtempo: </string>
+    <key>div_location_segment</key><string>Position auf der Karte: </string>
+    <key>div_currentState</key><string>Aktueller Modus: </string>
+    
+    <key>Help_State_Start</key><string>Der Punkt Start stellt den Anfangspunkt der Applikation dar. Durch das Auflegen einer Karte auf den Sensor kann zum Entdeckungsmodus gewechselt werden.
+        Mögliche Gesten:
+        Zwei Finger auseinander ziehen: Öffnen der Einstellungen.
+        Rotor rechts: Öffnen der Hilfe. </string>
+    <key>Help_State_Help</key><string>Der Punkt Hilfe stellt Informationen zu einzelnen Modi der Karte zur Verfügung. </string>
+    <key>Help_State_Settings</key><string>Der Punkt Einstellungen beinhaltetet drei Menüs: 1. Spracheinstellungen: Ändern des Sprachtempos. 2. Ebeneneinstellungen: Aktivieren und Deaktivieren von einzelnen Ebenen 3. Gespeicherte Orte: Durchforsten der gespeicherten Orte.
+        Die Menüs können durch doppeltes Tippen aktiviert werden. </string>
+    <key>Help_State_Discover</key><string>Im Punkt Entdeckungsmodus kann die Karte erkundet werden.
+        Mögliche Gesten:
+        Tippen und Halten: Abrufen der Informationen eines Ortes.
+        Zwei Finger auseinanderziehen: Öffnen der Ebneneneinstellungen für diese Karte.
+        Vier Finger nach oben wischen: Öffnen aller gespeicherten Orte dieser Karte.
+        Tippen und Halten mit zwei Fingen: Abrufen der Distanz zwischen den zwei ausgewählten Punkten .
+        Rotor Rechts: Öffnen der Hilfe.
+        Rotor Links: Öffnen der Einstellungen. </string>
+    <key>Help_State_Location</key><string>Gibt Informtionen über den aktuellen Ort aus.
+        Mögliche Gesten:
+        Links wischen: eine Information zurückblättern.
+        Rechts wischen: eine Information nach vorne blättern.
+        Nach unten wischen: Ort als Favorit speichern. </string>
+    <key>Help_State_Layers</key><string>Durchblättern über alle Ebenen.
+        Mögliche Gesten:
+        Links wischen: in der Liste zurück.
+        Rechts wischen: in der Liste nach vorne.
+        Nach unten wischen: Ebene deaktiveren.
+        Nach oben wischen: Ebene aktivieren.
+        Doppeltes tippen: Alle Orte der ausgewählten Ebene durchblättern.
+        Zwei Finger zusammen ziehen: Zurück zum Erkundungsmodus.
+        Rotor Rechts: Öffnen der Hilfe.
+        Rotor Links: Öffnen der Einstellungen. </string>
+    <key>Help_State_Layers_Singular</key><string>Alle Orte der ausgewählten Ebene durchblättern.
+        Mögliche Gesten:
+        Links wischen: eine Information zurückblättern.
+        Rechts wischen: eine Information nach vorne blättern.
+        Zwei Finger zusammen ziehen: Zurück zur Ebenenübersicht.
+        Rotor Rechts: Öffnen der Hilfe.
+        Rotor Links: Öffnen der Einstellungen. </string>
+    <key>Help_State_CustomLocation</key><string>Durchblättern über alle gespeicherten Orte.
+        Mögliche Gesten:
+        Links wischen: in der Liste zurück.
+        Rechts wischen: in der Liste nach vorne.
+        Nach oben wischen: Ort aus den Favoriten entfernen.
+        Doppeltes tippen: Alle Informationen des ausgewählten Ortes durchblättern.
+        Rotor Rechts: Öffnen der Hilfe.
+        Rotor Links: Öffnen der Einstellungen. </string>
+    <key>Help_State_CustomLocationSelected</key><string>Alle Informationen des ausgewählten Ortes durchblättern.
+        Mögliche Gesten:
+        Links wischen: eine Information zurückblättern.
+        Rechts wischen: eine Information nach vorne blättern.
+        Nach unten wischen: ?.
+        Rotor Rechts: Öffnen der Hilfe.
+        Rotor Links: Öffnen der Einstellungen. </string>
+    <key>Help_State_Distance</key><string>Gesten für Distanz </string>
+
+    <key>Help_Global_General</key><string>Diese Applikation ist im Rahmen einer Diplomarbeit entstanden und stellt einen Prototypen dar. </string>
+    <key>Help_Global_Gestures</key>
+    <string>In der Applikation sind folgende Gesten im Einsatz:
+    Doppeltes tippen
+    Zwei Finger auseinander ziehen
+    Zwei Finger zusammen ziehen
+    Links wischen
+    Rechts wischen
+    Nach unten wischen
+    Nach oben wischen
+    Tippen und Halten - 1 Finger
+    Tippen und Halten - 2 Finger
+    Ziehen
+    Hände heben
+    Drehen rechts
+    Drehen links
+    </string>
+    </dict>
+</plist>
